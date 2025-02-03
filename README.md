@@ -8,8 +8,8 @@ This project implements a ROS2 image publisher node that publishes images at a s
 ros2_image_publisher
 ├── src
 │   ├── image_publisher.cpp  # Implementation of the image publisher node
-│   └── CMakeLists.txt       # CMake configuration file
 ├── package.xml              # Package manifest
+└── CMakeLists.txt       # CMake configuration file
 └── README.md                # Project documentation
 ```
 
